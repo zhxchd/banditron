@@ -1,0 +1,56 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Beygelzimer et~al.(2019)Beygelzimer, P{\'a}l, Szorenyi,
+  Thiruvenkatachari, Wei, and Zhang]{beygelzimer2019bandit}
+Beygelzimer, A., P{\'a}l, D., Szorenyi, B., Thiruvenkatachari, D., Wei, C.-Y.,
+  and Zhang, C.
+\newblock Bandit multiclass linear classification: Efficient algorithms for the
+  separable case.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  624--633. PMLR, 2019.
+
+\bibitem[Cortez et~al.(2009)Cortez, Cerdeira, Almeida, Matos, and
+  Reis]{wine1999}
+Cortez, P., Cerdeira, A., Almeida, F., Matos, T., and Reis, J.
+\newblock Modeling wine preferences by data mining from physicochemical
+  properties, 2009.
+\newblock URL \url{https://archive.ics.uci.edu/ml/datasets/wine+quality}.
+
+\bibitem[Crammer \& Singer(2003)Crammer and
+  Singer]{crammer2003ultraconservative}
+Crammer, K. and Singer, Y.
+\newblock Ultraconservative online algorithms for multiclass problems.
+\newblock \emph{Journal of Machine Learning Research}, 3\penalty0
+  (Jan):\penalty0 951--991, 2003.
+
+\bibitem[Dua \& Graff(2017)Dua and Graff]{iris2019}
+Dua, D. and Graff, C.
+\newblock {UCI} machine learning repository, 2017.
+\newblock URL \url{http://archive.ics.uci.edu/ml}.
+
+\bibitem[Fink et~al.(2006)Fink, Shalev-Shwartz, Singer, and
+  Ullman]{fink2006online}
+Fink, M., Shalev-Shwartz, S., Singer, Y., and Ullman, S.
+\newblock Online multiclass learning by interclass hypothesis sharing.
+\newblock In \emph{Proceedings of the 23rd international conference on Machine
+  learning}, pp.\  313--320, 2006.
+
+\bibitem[Kakade et~al.(2008)Kakade, Shalev-Shwartz, and
+  Tewari]{kakade2008efficient}
+Kakade, S.~M., Shalev-Shwartz, S., and Tewari, A.
+\newblock Efficient bandit algorithms for online multiclass prediction.
+\newblock In \emph{Proceedings of the 25th international conference on Machine
+  learning}, pp.\  440--447, 2008.
+
+\bibitem[Rosenblatt(1958)]{rosenblatt1958perceptron}
+Rosenblatt, F.
+\newblock The perceptron: a probabilistic model for information storage and
+  organization in the brain.
+\newblock \emph{Psychological review}, 65\penalty0 (6):\penalty0 386, 1958.
+
+\end{thebibliography}
