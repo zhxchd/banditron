@@ -4,4 +4,4 @@ This repository implements the code in [Efficient Bandit Algorithms for Online M
 
 # Update
 
-I found this idea of adjusting gamma value to minimize expected number of errors has been well studied by [Valizadegan (KDD '11)](https://dl.acm.org/doi/10.1145/2020408.2020445). Hence further research on this topic will not be continued and this repository is now archived.
+I found this idea of adjusting gamma value to minimize expected number of errors has been well studied by [Valizadegan et al (KDD '11)](https://dl.acm.org/doi/10.1145/2020408.2020445). Hence further research on this topic will not be continued and this repository is now archived.
